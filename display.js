@@ -1,4 +1,4 @@
-function display(){
-console.log('GUVI Geek Technologies, Chenna');
-alert('GUVI Geek Technologies, Chenna');
+const display = () => {
+console.log('GUVI Geek Technologies, Chennai');
+alert('GUVI Geek Technologies, Chennai');
 };
